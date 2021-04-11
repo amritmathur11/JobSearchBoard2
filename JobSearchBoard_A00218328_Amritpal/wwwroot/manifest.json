@@ -1,0 +1,15 @@
+{
+  "name": "Job Search Board",
+  "short_name": "Job Search Board",
+  "start_url": "/",
+  "scope": "/",
+  "display": "minimal-ui",
+  "icons": [
+    {
+      "sizes": "144x144",
+      "type": "image/png",
+      "src": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fjob-vacancy-work-search-logo-design-template-job-vacancy-work-search-logo-design-image113122017&psig=AOvVaw2pAUlELMxSOOKAWlWWu0cZ&ust=1617227304307000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPj596n_2O8CFQAAAAAdAAAAABAQ"
+    }
+  ]
+  
+    }

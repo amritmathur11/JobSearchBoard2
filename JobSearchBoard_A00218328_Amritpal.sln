@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobSearchBoard_A00218328_Amritpal", "JobSearchBoard_A00218328_Amritpal\JobSearchBoard_A00218328_Amritpal.csproj", "{314AC280-4B57-4BD0-ABA3-55989BF7F988}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{314AC280-4B57-4BD0-ABA3-55989BF7F988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{314AC280-4B57-4BD0-ABA3-55989BF7F988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{314AC280-4B57-4BD0-ABA3-55989BF7F988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{314AC280-4B57-4BD0-ABA3-55989BF7F988}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95C95C91-959E-4116-908F-7997142047B8}
+	EndGlobalSection
+EndGlobal

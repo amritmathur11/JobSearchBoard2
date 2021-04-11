@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<script src="/lib/jquery/dist/jquery.min.js"></script>
+@if (ViewBag.GotoLoginPage != null && ViewBag.GotoLoginPage == true)
+{
+    <script>
+            document.querySelector('a[href="/Identity/Account/Login"]').click()
+    </script>
+}
